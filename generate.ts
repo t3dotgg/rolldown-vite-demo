@@ -3,7 +3,7 @@ import * as path from "path";
 
 // Configuration
 const COMPONENTS_DIR = "./src/components";
-const NUM_COMPONENTS = 5000;
+const NUM_COMPONENTS = 50;
 
 // Ensure the components directory exists
 if (!fs.existsSync(COMPONENTS_DIR)) {
