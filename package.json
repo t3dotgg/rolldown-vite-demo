@@ -23,8 +23,11 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "lightningcss": "^1.28.2",
+    "rollup-plugin-esbuild": "^6.1.1",
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.18.2",
-    "vite": "^6.0.6"
-  }
+    "vite": "https://pkg.pr.new/rolldown/vite@a839caa"
+  },
+  "packageManager": "pnpm@8.15.7+sha512.c85cd21b6da10332156b1ca2aa79c0a61ee7ad2eb0453b88ab299289e9e8ca93e6091232b25c07cbf61f6df77128d9c849e5c9ac6e44854dbd211c49f3a67adc"
 }
+
